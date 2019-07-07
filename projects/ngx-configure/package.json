@@ -1,0 +1,30 @@
+{
+  "name": "ngx-configure",
+  "description": "loads a general config object from json file before app initialization",
+  "keywords": [
+    "configuration",
+    "config",
+    "angular",
+    "angular 2",
+    "angular 4",
+    "angular 5",
+    "angular 6",
+    "angular 7",
+    "json"
+  ],
+  "author": "Catriel Müller",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/catrielmuller/ngx-configure.git"
+  },
+  "bugs": {
+    "email": "catrielmuller@gmail.com",
+    "url": "https://github.com/catrielmuller/ngx-configure/issues"
+  },
+  "version": "7.0.0",
+  "peerDependencies": {
+    "@angular/common": "^7.0.4",
+    "@angular/core": "^7.0.4"
+  }
+}
